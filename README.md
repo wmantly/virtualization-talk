@@ -15,6 +15,7 @@ presentation.
 
 ## About Me
 
+![pets](resources/me.png)
 **William Mantly Jr**
 
 In depth knowledge of software development, System and network design with 20
