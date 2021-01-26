@@ -15,7 +15,8 @@ presentation.
 
 ## About Me
 
-![pets](resources/me.png)
+![William Mantly Jr](resources/me.png)
+
 **William Mantly Jr**
 
 In depth knowledge of software development, System and network design with 20
@@ -109,7 +110,7 @@ Lets take a deeper look into what this means
 
 ### The Virtual Machine
 
-![pets](resources/vm.png)
+![VM](resources/vm.png)
 
 
 Simply put, a VM is a logical(fake) computer that exists as software. Some VM's 
@@ -141,7 +142,7 @@ the same way.
 
 ### How about Containers?
 
-![pets](resources/container.png)
+![Container](resources/container.png)
 
 
 Containers on the surface are a lot like VM's. They are both used for resource
